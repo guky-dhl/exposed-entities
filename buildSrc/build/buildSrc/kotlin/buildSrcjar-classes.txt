@@ -1,0 +1,1 @@
+/home/ddh/IdeaProjects/exposed-entities/buildSrc/build/buildSrc/classes/kotlin/main/libs$exposed.class:/home/ddh/IdeaProjects/exposed-entities/buildSrc/build/buildSrc/classes/kotlin/main/libs.class:/home/ddh/IdeaProjects/exposed-entities/buildSrc/build/buildSrc/classes/kotlin/main/versions.class
